@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 100;
+  box-sizing: border-box;
+}
+nav ul li{
+    display: inline-block; 
+}
+.checked {
+  color: orange;
+}
